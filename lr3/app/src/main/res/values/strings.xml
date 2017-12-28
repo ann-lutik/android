@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Мое время</string>
+
+    <string-array name="priorities">
+        <item>Красная</item>
+        <item>Лайм</item>
+    </string-array>
+
+    <string name="no_todos">Нет текущих записей</string>
+    <string name="menu_insert">Добавить</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="todo_summary">Заголовок</string>
+    <string name="todo_description">Описание</string>
+    <string name="todo_confirm">Применить</string>
+
+    <color name="listcolor">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
